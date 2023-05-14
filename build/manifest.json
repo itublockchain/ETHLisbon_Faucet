@@ -1,0 +1,16 @@
+{
+  "short_name": "Faucet Extension",
+  "name": "Faucet Extension",
+  "icons": {
+    "16": "logo.png",
+    "48": "logo.png",
+    "128": "logo.png"
+  },
+  "permissions": [],
+  "manifest_version": 2,
+  "version": "0.0.1",
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_title": "Faucet Extension"
+  }
+}
